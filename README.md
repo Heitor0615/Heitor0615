@@ -1,35 +1,46 @@
 <div align="center">
 
-# Olá, eu sou Heitor Dalerrandro Najar Costa 👋
+<img src="https://github.com/Heitor0615.png" width="110" alt="Foto de perfil do GitHub de Heitor" />
 
-### Estudante e desenvolvedor em formação | Programação e análise de dados
+# Heitor Dalerrandro Najar Costa
 
-[![GitHub](https://img.shields.io/badge/GitHub-Heitor0615-181717?style=for-the-badge&logo=github)](https://github.com/Heitor0615)
-[![E-mail](https://img.shields.io/badge/E--mail-Fale%20comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dalerrandroheitor@gmail.com)
+### 🎓 Estudante de Desenvolvimento de Sistemas
+
+![Seguidores](https://img.shields.io/github/followers/Heitor0615?style=for-the-badge&logo=github&label=Seguidores&color=236ad3)
+![Estrelas](https://img.shields.io/github/stars/Heitor0615?style=for-the-badge&logo=github&label=Estrelas&color=2c765b)
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=Heitor0615&style=for-the-badge&color=6c63ff&label=VISITAS%20AO%20PERFIL)
 
 </div>
 
-## Sobre mim
+---
 
-Sou estudante do curso Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industrial (SENAI/SE), em Aracaju, Sergipe. Estou me formando como desenvolvedor, com foco em programação e análise de dados. Tenho interesse em desenvolver soluções utilizando **Python** e **C#**, além de trabalhar com análise e interpretação de dados. Busco uma oportunidade profissional para aplicar meus conhecimentos, continuar evoluindo e crescer na área de tecnologia.
+Sou estudante do **Técnico em Desenvolvimento de Sistemas no SENAI/SE**, em Aracaju, Sergipe. Estou me formando como desenvolvedor e tenho interesse em programação, Python, C# e análise de dados. Busco uma oportunidade para aplicar meus conhecimentos, continuar aprendendo e crescer na área de tecnologia.
 
-## Tecnologias e interesses
+## 🧰 Linguagens e tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Análise de dados](https://img.shields.io/badge/Análise%20de%20dados-2C765B?style=for-the-badge)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,cs,git,github" alt="Python, C Sharp, Git e GitHub" />
+</div>
 
-## Projetos em destaque
+## 📌 Projetos em destaque
 
-### [Análise de dados](https://github.com/Heitor0615/analise-de-dados)
+<div align="center">
+  <a href="https://github.com/Heitor0615/analise-de-dados">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Heitor0615&repo=analise-de-dados&theme=tokyonight&hide_border=true" alt="Cartão do projeto Análise de dados" />
+  </a>
+  <a href="https://github.com/Heitor0615/BibliotecaAPI">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Heitor0615&repo=BibliotecaAPI&theme=tokyonight&hide_border=true" alt="Cartão do projeto BibliotecaAPI" />
+  </a>
+</div>
 
-Confira meu projeto de análise de dados e seu código-fonte no GitHub.
+## 📊 Estatísticas do GitHub
 
-### [BibliotecaAPI](https://github.com/Heitor0615/BibliotecaAPI)
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Heitor0615&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub de Heitor" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitor0615&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas nos repositórios públicos de Heitor" />
+</div>
 
-Confira meu projeto BibliotecaAPI e seu código-fonte no GitHub.
+## 📬 Contato
 
-## Contato
-
-- E-mail: [dalerrandroheitor@gmail.com](mailto:dalerrandroheitor@gmail.com)
-- Instagram: [@heitordalerrandro](https://www.instagram.com/heitordalerrandro/)
+[![E-mail](https://img.shields.io/badge/E--mail-Fale%20comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dalerrandroheitor@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-heitordalerrandro-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heitordalerrandro/)
