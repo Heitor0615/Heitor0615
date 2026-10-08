@@ -16,7 +16,7 @@
 
 Sou estudante do **Técnico em Desenvolvimento de Sistemas no SENAI/SE**, em Aracaju, Sergipe. Estou me formando como desenvolvedor e tenho interesse em programação, Python, C# e análise de dados. Busco uma oportunidade para aplicar meus conhecimentos, continuar aprendendo e crescer na área de tecnologia.
 
-## 🧰 Linguagens e tecnologias 
+## 🧰 Linguagens e tecnologias dos projetos
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -42,7 +42,7 @@ Sou estudante do **Técnico em Desenvolvimento de Sistemas no SENAI/SE**, em Ara
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Heitor0615&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub de Heitor" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Heitor0615&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Heitor" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitor0615&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas nos repositórios públicos de Heitor" />
 </div>
 
