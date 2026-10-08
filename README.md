@@ -16,7 +16,7 @@
 
 Sou estudante do **Técnico em Desenvolvimento de Sistemas no SENAI/SE**, em Aracaju, Sergipe. Estou me formando como desenvolvedor e tenho interesse em programação, Python, C# e análise de dados. Busco uma oportunidade para aplicar meus conhecimentos, continuar aprendendo e crescer na área de tecnologia.
 
-## 🧰 Linguagens e tecnologias dos projetos
+## 🧰 Linguagens e tecnologias 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
